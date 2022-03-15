@@ -1,5 +1,5 @@
 [package]
-name = "aws-create-user"
+name = "kps-aws"
 version = "0.1.0"
 edition = "2021"
 
